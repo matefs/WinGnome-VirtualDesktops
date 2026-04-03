@@ -4,14 +4,14 @@ A robust AutoHotkey implementation designed to bridge the productivity gap betwe
 
 ---
 
-## ARCHITECTURE AND DESIGN PRINCIPLES
+ ## PREREQUISITES
 
-The project follows a decoupled event-driven approach. Instead of a continuous loop, the script monitors specific Windows Shell messages to trigger desktop transitions, ensuring near-zero CPU overhead.
+This project requires the AutoHotkey engine to function properly. Ensure it is installed on your system before running the script:
 
-- SOLID Principles: Logic is divided into input detection and workspace execution.
-- Maintainability: Uses descriptive naming conventions and clear separation of concerns.
-- Scalability: The codebase is ready for additional GNOME-like features (e.g., Overview Mode or Workspace Wraparound).
-
+- Application: AutoHotkey (AHK)
+- Supported Versions: v1.1 or v2.0+
+- Official Download: https://www.autohotkey.com/
+- Installation: Download the installer and follow the standard setup process.
 ---
 
 ## FEATURES

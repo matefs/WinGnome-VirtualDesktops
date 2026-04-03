@@ -26,7 +26,7 @@ The project follows a decoupled event-driven approach. Instead of a continuous l
 ## INSTALLATION AND SETUP
 
 1. Requirement: Install AutoHotkey (v1.1 or v2.0+) on your system.
-2. Clone Repository: git clone https://github.com/youruser/wingnome-virtualdesktops.git
+2. Clone Repository: git clone https://github.com/matefs/wingnome-virtualdesktops.git
 3. Execution: Run the file WinGnome-VirtualDesktops.ahk.
 4. Persistence: To run on system startup, move a shortcut of the script to the shell:startup folder.
 
